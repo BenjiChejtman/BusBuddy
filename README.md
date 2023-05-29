@@ -1,3 +1,4 @@
 # BusBuddy-Hardware
-3Software Hardware - BusBuddy 2023
-#BusBuddy's objective is to help blind people in their daily use of the public transport
+Software Hardware - BusBuddy 2023
+\n
+BusBuddy's objective is to help blind people in their daily use of the public transport
